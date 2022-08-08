@@ -383,7 +383,7 @@ h5 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 20px 100px;
+  padding: 20px 50px;
 }
 
 .responsive {
